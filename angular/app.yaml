@@ -1,4 +1,4 @@
-runtime: python27threadsafe: true
+runtime: python28threadsafe: true
 api_version: 1
 
 handlers:
